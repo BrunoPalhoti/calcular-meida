@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular Media</string>
+    <string name="nota1">Nota B1</string>
+    <string name="nota2">Nota B2</string>
+    <string name="calcular">Calcular</string>
+    <string name="media">Media:</string>
+    <string name="sair">Sair</string>
+    <string name="status">Status</string>
+
+</resources>
